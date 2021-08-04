@@ -1,4 +1,4 @@
-# PONG_AI_GAME
+# PONG_GAME
 pong game for either two players or one player against the computer
 
 ### main menu
